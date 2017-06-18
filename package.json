@@ -1,0 +1,7 @@
+{
+    "main": "hub.js",
+    "engine": "JavaScript",
+    "public": [
+        "getState"
+    ]
+}
